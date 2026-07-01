@@ -25,12 +25,3 @@ mcpServers:
     timeout: 120000
     startup: false
     serverInstructions: true
-
-  notion:
-    type: streamable-http
-    url: https://notion.run.tools
-    requiresOAuth: true
-    initTimeout: 150000
-    timeout: 120000
-    startup: false
-    serverInstructions: true
